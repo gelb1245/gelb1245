@@ -1,6 +1,6 @@
 <p align="right"><sub>kjabsdudoinsasgyujvh</sub></p>
 
-<p align="center"><img src="assets/1.jpg" height="160"/><img src="assets/2.jpg" height="160"/><img src="assets/3.jpg" height="160"/><img src="assets/4.jpg" height="160"/><img src="assets/5.jpg" height="160"/></p>
+<p align="center"><img src="1.jpg" height="160"/><img src="2.jpg" height="160"/><img src="3.jpg" height="160"/><img src="4.jpg" height="160"/><img src="5.jpg" height="160"/></p>
 
 <p align="left"><code>qwplzmxnduehvbaksjr</code></p>
 
